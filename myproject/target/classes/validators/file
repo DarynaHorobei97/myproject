@@ -1,0 +1,111 @@
+{
+    "success": true,
+    "data": [
+        {
+            "TotalCount": 9,
+            "Addresses": [
+                {
+                    "Present": "м. Київ, Київська обл.",
+                    "Warehouses": 6114,
+                    "MainDescription": "Київ",
+                    "Area": "Київська",
+                    "Region": "",
+                    "SettlementTypeCode": "м.",
+                    "Ref": "e718a680-4b33-11e4-ab6d-005056801329",
+                    "DeliveryCity": "8d5a980d-391c-11dd-90d9-001a92567626",
+                    "AddressDeliveryAllowed": true,
+                    "StreetsAvailability": true,
+                    "ParentRegionTypes": "область",
+                    "ParentRegionCode": "обл.",
+                    "RegionTypes": "",
+                    "RegionTypesCode": ""
+                },
+                {
+                    "Present": "с. Київець, Миколаївський р-н, Львівська обл.",
+                    "Warehouses": 2,
+                    "MainDescription": "Київець",
+                    "Area": "Львівська",
+                    "Region": "Миколаївський",
+                    "SettlementTypeCode": "с.",
+                    "Ref": "0df25497-4b3a-11e4-ab6d-005056801329",
+                    "DeliveryCity": "6dbe5985-96d1-11ea-a970-b8830365ade4",
+                    "AddressDeliveryAllowed": true,
+                    "StreetsAvailability": false,
+                    "ParentRegionTypes": "область",
+                    "ParentRegionCode": "обл.",
+                    "RegionTypes": "район",
+                    "RegionTypesCode": "р-н"
+                },
+                {
+                    "Present": "с. Київ, Доманівський р-н, Миколаївська обл.",
+                    "Warehouses": 0,
+                    "MainDescription": "Київ",
+                    "Area": "Миколаївська",
+                    "Region": "Доманівський",
+                    "SettlementTypeCode": "с.",
+                    "Ref": "0db2df4b-4b3a-11e4-ab6d-005056801329",
+                    "DeliveryCity": "06f8795a-4079-11de-b509-001d92f78698",
+                    "AddressDeliveryAllowed": true,
+                    "StreetsAvailability": false,
+                    "ParentRegionTypes": "область",
+                    "ParentRegionCode": "обл.",
+                    "RegionTypes": "район",
+                    "RegionTypesCode": "р-н"
+                },
+                {
+                    "Present": "с. Київка, Голопристанський р-н, Херсонська обл.",
+                    "Warehouses": 0,
+                    "MainDescription": "Київка",
+                    "Area": "Херсонська",
+                    "Region": "Голопристанський",
+                    "SettlementTypeCode": "с.",
+                    "Ref": "0dd153b3-4b3a-11e4-ab6d-005056801329",
+                    "DeliveryCity": "fd249301-887a-11e9-898c-005056b24375",
+                    "AddressDeliveryAllowed": false,
+                    "StreetsAvailability": false,
+                    "ParentRegionTypes": "область",
+                    "ParentRegionCode": "обл.",
+                    "RegionTypes": "район",
+                    "RegionTypesCode": "р-н"
+                },
+                {
+                    "Present": "с. Київське, Новомиколаївський р-н, Запорізька обл.",
+                    "Warehouses": 0,
+                    "MainDescription": "Київське",
+                    "Area": "Запорізька",
+                    "Region": "Новомиколаївський",
+                    "SettlementTypeCode": "с.",
+                    "Ref": "0e40bf5a-4b3a-11e4-ab6d-005056801329",
+                    "DeliveryCity": "cfbeaca4-4063-11de-b509-001d92f78698",
+                    "AddressDeliveryAllowed": true,
+                    "StreetsAvailability": false,
+                    "ParentRegionTypes": "область",
+                    "ParentRegionCode": "обл.",
+                    "RegionTypes": "район",
+                    "RegionTypesCode": "р-н"
+                }
+            ]
+        }
+    ],
+    "errors": [
+
+    ],
+    "warnings": [
+
+    ],
+    "info": [
+
+    ],
+    "messageCodes": [
+
+    ],
+    "errorCodes": [
+
+    ],
+    "warningCodes": [
+
+    ],
+    "infoCodes": [
+
+    ]
+}
